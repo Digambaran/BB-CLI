@@ -1,0 +1,29 @@
+html, body {  
+    margin: 0;
+    padding: 0;
+  }
+  .node {
+    cursor: pointer;
+    color: red;
+  }
+  
+  .node circle {
+  }
+  
+  .node text {
+    font: 10px sans-serif;
+  }
+  
+  .link {
+    fill: none;
+    stroke: rgb(0, 0, 0);
+    stroke-width: 1px;
+  }
+
+  rect {
+    fill:none
+  }
+  table{
+    width: 100px;
+  }
+  
